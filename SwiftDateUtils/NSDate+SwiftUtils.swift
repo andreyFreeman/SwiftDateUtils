@@ -8,7 +8,7 @@
 
 import Foundation
 
-let formatter: NSDateFormatter = NSDateFormatter()
+internal let formatter: NSDateFormatter = NSDateFormatter()
 
 extension NSDate {
     
